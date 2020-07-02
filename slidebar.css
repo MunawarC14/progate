@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	padding: 0
+}
+
+.slide {
+	height: 400px;
+	background-image: url(team.jpg);
+	background-size: cover;
+}
+
+.judul {
+	padding-top: 150px;
+	padding-left: 150px;
+	padding-right: 350px;
+	text-shadow: 15px;
+}
+
+.artikel {
+	padding-left: 150px;
+	padding-right: 350px;
+	padding-top:-50px;
+	margin-top: -20px;
+	font-size: 18px;
+	color: white;
+}
